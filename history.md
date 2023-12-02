@@ -1,0 +1,3 @@
+Este código define cuatro clases: `Persona`, `Perro`, `Ciudad` y `Coche`, cada una con sus propiedades y métodos. Luego, crea instancias de estas clases y realiza algunas operaciones para mostrar información sobre las personas, los perros, los coches y las ciudades.
+
+En este código, he añadido notaciones de tipo a los argumentos y retornos de funciones, así como también he especificado los tipos de las listas (`List["Persona"], List["Perro"]`) y he utilizado `Optional` para indicar cuando un argumento o atributo puede ser `None`. Además, he utilizado `"Clase"` para referenciar clases que aún no han sido definidas en el momento de la declaración.
